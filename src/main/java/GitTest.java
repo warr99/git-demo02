@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("hello,idea git");
         System.out.println("hello,idea gitHub");
         System.out.println("hello,idea gitee");
+        System.out.println("hello,idea masterTest");
     }
 }
