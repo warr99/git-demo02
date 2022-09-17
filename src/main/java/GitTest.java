@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hello,idea gitHub");
         System.out.println("hello,idea gitee");
         System.out.println("hello,idea masterTest");
+        System.out.println("hello,idea hotfixTest");
     }
 }
